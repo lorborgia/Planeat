@@ -1,0 +1,7 @@
+Evento: datalayer purchase
+Quando triggera:
+ordine completato
+
+Push datalayer:
+vedere schema
+https://developers.google.com/analytics/devguides/collection/ga4/reference/events?client_type=gtm&hl=it#purchase
