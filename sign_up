@@ -1,1 +1,9 @@
+Evento: datalayer sign_up
+Quando triggera:
+registrazione nuovo account
 
+Parametro aggiuntivo: method (secondo le opzioni disponibili es. Google per il social login)
+
+Push datalayer:
+vedere schema
+https://developers.google.com/analytics/devguides/collection/ga4/reference/events?client_type=gtm&hl=it#sign_up
