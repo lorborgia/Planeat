@@ -1,1 +1,7 @@
+Evento: select_item
+Quando triggera:
+selezione del prodotto (clic sull'anteprima che porta alla scheda prodotto)
 
+Push datalayer:
+vedere schema
+https://developers.google.com/analytics/devguides/collection/ga4/reference/events?client_type=gtm&hl=it#select_item
