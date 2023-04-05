@@ -1,0 +1,9 @@
+Evento: datalayer form_submitted
+Quando triggera:
+quando un utente invia la richiesta dal form (es. https://planeat.eco/servizi-aziende#form-for-companies)
+
+Push datalayer:
+vedere schema
+https://developers.google.com/analytics/devguides/collection/ga4/reference/events?client_type=gtm&hl=it#add_to_cart
+
+
