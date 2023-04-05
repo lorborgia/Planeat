@@ -1,0 +1,7 @@
+Evento: datalayer view_cart
+Quando triggera:
+visualizzazione del carrello
+
+Push datalayer:
+vedere schema
+https://developers.google.com/analytics/devguides/collection/ga4/reference/events?client_type=gtm&hl=it#view_cart
