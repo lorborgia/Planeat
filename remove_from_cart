@@ -1,0 +1,7 @@
+Evento: datalayer remove_from_cart
+Quando triggera:
+rimozione del prodotto a carrello
+
+Push datalayer:
+vedere schema
+https://developers.google.com/analytics/devguides/collection/ga4/reference/events?client_type=gtm&hl=it#remove_from_cart
