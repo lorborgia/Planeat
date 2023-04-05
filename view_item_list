@@ -2,6 +2,9 @@ Evento: view_item_list
 Quando triggera:
 Visualizzazione elenco prodotti caricati in pagina (es.https://planeat.eco/ricette-piatti-pronti-prodotti/)
 
+Il parametro non obbligatorio "nome evento" potrebbe riportare l'indicazione della categoria di appartenenza es. Novità
+
+
 Push datalayer:
 vedere schema
 https://developers.google.com/analytics/devguides/collection/ga4/reference/events?client_type=gtm&hl=it#view_item_list
