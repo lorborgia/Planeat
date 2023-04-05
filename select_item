@@ -1,4 +1,4 @@
-Evento: select_item
+Evento: datalayer select_item
 Quando triggera:
 selezione del prodotto (clic sull'anteprima che porta alla scheda prodotto)
 
