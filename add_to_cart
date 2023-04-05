@@ -1,4 +1,4 @@
-Evento: add_to_cart
+Evento: datalayer add_to_cart
 Quando triggera:
 aggiunta del prodotto a carrello
 
