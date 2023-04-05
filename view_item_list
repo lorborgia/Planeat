@@ -1,7 +1,11 @@
-Evento: view_item
+Evento: view_item_list
 Quando triggera:
-Visualizzazione scheda prodotto (es.https://planeat.eco/ricetta/orecchiette-broccoli-acciughe?)
+Visualizzazione elenco prodotti caricati in pagina (es.https://planeat.eco/ricette-piatti-pronti-prodotti/)
 
 Push datalayer:
 vedere schema
-https://developers.google.com/analytics/devguides/collection/ga4/reference/events?client_type=gtm&hl=it#view_item
+https://developers.google.com/analytics/devguides/collection/ga4/reference/events?client_type=gtm&hl=it#view_item_list
+
+
+
+
