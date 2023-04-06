@@ -1,1 +1,7 @@
+Evento: datalayer add_item
+Quando triggera:
+clic su aggiungi prodotto (step precedente all'aggiunta effettiva al carrello)
 
+Push datalayer:
+replicare schema di add_to_cart ma sostituire il nome evento con add_item
+https://developers.google.com/analytics/devguides/collection/ga4/reference/events?client_type=gtm&hl=it#add_to_cart
