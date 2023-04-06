@@ -1,8 +1,8 @@
 Evento: datalayer generate_lead
 Quando triggera:
-quando un utente invia la richiesta dal form (es. https://planeat.eco/servizi-aziende#form-for-companies)
+quando un utente invia la richiesta dal form business (es. https://planeat.eco/servizi-aziende#form-for-companies)
 
-Aggiungere parametro "form_id" pe restituire il numero corrispondente alla rchiesta inviata
+Aggiungere parametro "form_id" per restituire il numero corrispondente alla rchiesta inviata
 
 Push datalayer:
 vedere schema
