@@ -2,8 +2,11 @@ Evento: datalayer generate_lead
 Quando triggera:
 quando un utente invia la richiesta dal form (es. https://planeat.eco/servizi-aziende#form-for-companies)
 
+Aggiungere parametro "form_id" pe restituire il numero corrispondente alla rchiesta inviata
+
 Push datalayer:
 vedere schema
 https://developers.google.com/analytics/devguides/collection/ga4/reference/events?client_type=gtm&hl=it#generate_lead
+(ignorare i parametri currency e value)
 
 
