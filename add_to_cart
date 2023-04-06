@@ -1,6 +1,6 @@
 Evento: datalayer add_to_cart
 Quando triggera:
-aggiunta del prodotto a carrello
+aggiunta effettiva del prodotto a carrello (secondo clic su aggiungi dopo aver inserito le quantità)
 
 Push datalayer:
 vedere schema
