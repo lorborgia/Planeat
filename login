@@ -2,7 +2,8 @@ Evento: datalayer login
 Quando triggera:
 accesso utente registrato
 
-Parametro aggiuntivo: method (secondo le opzioni disponibili es. Google per il social login)
+Parametro aggiuntivo: method (restituisce il canale di registrazione, secondo le opzioni disponibili es. Google per il social login)
+Paramtero aggiuntivo: cliente (restituisce informazioni se è Privato o Azienda)
 
 Push datalayer:
 vedere schema
